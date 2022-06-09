@@ -5,4 +5,4 @@ Please make sure that the server is running and the MySQL database has been crea
 ### Login
 IP: [IP where the server is running], User: Adria Payet, Password: 0C413131
 ### Query
-Query: marks
+Query: marks?subject=PBE
